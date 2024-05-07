@@ -1,0 +1,31 @@
+.banner {
+  display: flex;
+  height: 500px;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.banner-text {
+  margin: 15px 100px;
+  color: white;
+  align-content: center;
+}
+
+.banner-text h1 {
+  margin: 0px;
+  font-size: 48px;
+}
+
+.banner-text p {
+  margin: 0px 0px 10px 0px;
+  font-size: 22px;
+}
+
+.button {
+  display: inline-block;
+  margin: 30px 0px;
+  background-color: #EDD267;
+  color: rgb(85, 84, 84);
+  padding: 13px 25px;
+  border-radius: 5px;
+}

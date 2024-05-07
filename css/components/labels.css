@@ -1,0 +1,25 @@
+.labels-container {
+  text-align: center;
+}
+
+.labels-container h2 {
+  margin: 50px 0px 30px 0px;
+}
+
+.labels {
+  display: flex;
+  justify-content: space-around;
+}
+
+.label-1,.label-2, .label-3 {
+  width: 200px;
+  border: 1px solid rgb(163, 163, 163);
+  padding: 15px;
+}
+
+.label-1 img,.label-2 img, .label-3 img{
+  width: 180px;
+  height: 150px;
+  object-fit: cover;
+  object-position: center;
+}
